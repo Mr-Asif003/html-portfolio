@@ -1,0 +1,29 @@
+*{
+    background-color: rgb(244, 227, 227);
+    margin: 0;
+    padding: 0;
+    background-image: url("https://th.bing.com/th/id/R.f9b9ad9915667f06919e14cd6283d400?rik=cMxMtEwb7UOXtQ&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f04%2fHappy-birthday-photos-pictures-HD.jpg&ehk=45RKUSf8er8Q4zZh%2b20nb9kyBaduK1SZbTDylsofIxI%3d&risl=&pid=ImgRaw&r=0") ;
+    background-size: cover;
+
+}
+
+h1,p{
+    text-align: center;
+    color: rgb(255, 187, 0);
+}
+h3{
+    text-align: center;
+    color:brown;
+
+}
+.bpic{
+    opacity: 100%;
+    display: block;
+   margin-left:auto;
+   margin-right:auto;
+   width: 40%;
+}
+a{
+    color: aliceblue;
+ margin:30px 40px 50px 50px;
+}
